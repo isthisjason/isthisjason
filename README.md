@@ -2,7 +2,7 @@
 
 # Hi, I'm Jason.
 
-I'm drawn to projects where the intersting part is the system underneath.
+I'm drawn to 2000's music and cozy RPGs. 
 
 </div>
 
@@ -10,8 +10,6 @@ I'm drawn to projects where the intersting part is the system underneath.
 
 ## Currently working on
 
-<a href="https://github.com/isthisjason/signal-attention">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=isthisjason&repo=signal-attention&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="signal-attention" />
-</a>
+A game...?
 
 </div>
