@@ -2,7 +2,7 @@
 
 # Hi, I'm Jason.
 
-I'm drawn to 2000's music and cozy RPGs. 
+I'm drawn to 2000's pop music and cozy RPGs. 
 
 </div>
 
